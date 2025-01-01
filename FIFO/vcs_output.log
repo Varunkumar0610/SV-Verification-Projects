@@ -1,0 +1,74 @@
+Chronologic VCS simulator copyright 1991-2022
+Contains Synopsys proprietary information.
+Compiler version T-2022.06-SP1_Full64; Runtime version T-2022.06-SP1_Full64;  Dec  2 14:38 2024
+[DRV] : DUT Reset Done
+------------------------------------------
+[GEN] : Oper : 0 iteration : 1
+[DRV] : DATA READ
+[MON] : Wr:0 rd:1 din:0 dout:0 full:0 empty:1
+[SCO] : Wr:0 rd:1 din:0 dout:0 full:0 empty:1
+[SCO] : FIFO IS EMPTY
+--------------------------------------
+[GEN] : Oper : 0 iteration : 2
+[DRV] : DATA READ
+[MON] : Wr:0 rd:1 din:0 dout:0 full:0 empty:1
+[SCO] : Wr:0 rd:1 din:0 dout:0 full:0 empty:1
+[SCO] : FIFO IS EMPTY
+--------------------------------------
+[GEN] : Oper : 0 iteration : 3
+[DRV] : DATA READ
+[MON] : Wr:0 rd:1 din:0 dout:0 full:0 empty:1
+[SCO] : Wr:0 rd:1 din:0 dout:0 full:0 empty:1
+[SCO] : FIFO IS EMPTY
+--------------------------------------
+[GEN] : Oper : 0 iteration : 4
+[DRV] : DATA READ
+[MON] : Wr:0 rd:1 din:0 dout:0 full:0 empty:1
+[SCO] : Wr:0 rd:1 din:0 dout:0 full:0 empty:1
+[SCO] : FIFO IS EMPTY
+--------------------------------------
+[GEN] : Oper : 1 iteration : 5
+[DRV] : DATA WRITE  data : 8
+[MON] : Wr:1 rd:0 din:8 dout:0 full:0 empty:1
+[SCO] : Wr:1 rd:0 din:8 dout:0 full:0 empty:1
+[SCO] : DATA STORED IN QUEUE :8
+--------------------------------------
+[GEN] : Oper : 0 iteration : 6
+[DRV] : DATA READ
+[MON] : Wr:0 rd:1 din:8 dout:8 full:0 empty:0
+[SCO] : Wr:0 rd:1 din:8 dout:8 full:0 empty:0
+[SCO] : DATA MATCH
+--------------------------------------
+[GEN] : Oper : 1 iteration : 7
+[DRV] : DATA WRITE  data : 1
+[MON] : Wr:1 rd:0 din:1 dout:8 full:0 empty:1
+[SCO] : Wr:1 rd:0 din:1 dout:8 full:0 empty:1
+[SCO] : DATA STORED IN QUEUE :1
+--------------------------------------
+[GEN] : Oper : 1 iteration : 8
+[DRV] : DATA WRITE  data : 10
+[MON] : Wr:1 rd:0 din:10 dout:8 full:0 empty:0
+[SCO] : Wr:1 rd:0 din:10 dout:8 full:0 empty:0
+[SCO] : DATA STORED IN QUEUE :10
+--------------------------------------
+[GEN] : Oper : 0 iteration : 9
+[DRV] : DATA READ
+[MON] : Wr:0 rd:1 din:10 dout:1 full:0 empty:0
+[SCO] : Wr:0 rd:1 din:10 dout:1 full:0 empty:0
+[SCO] : DATA MATCH
+--------------------------------------
+[GEN] : Oper : 1 iteration : 10
+[DRV] : DATA WRITE  data : 9
+[MON] : Wr:1 rd:0 din:9 dout:1 full:0 empty:0
+[SCO] : Wr:1 rd:0 din:9 dout:1 full:0 empty:0
+[SCO] : DATA STORED IN QUEUE :9
+--------------------------------------
+---------------------------------------------
+Error Count :0
+---------------------------------------------
+$finish called from file "../tb/fifo_tb.sv", line 238.
+$finish at simulation time                  690
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 690
+CPU Time:      0.450 seconds;       Data structure size:   0.0Mb
+Mon Dec  2 14:38:20 2024
