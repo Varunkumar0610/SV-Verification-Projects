@@ -49,9 +49,9 @@ Follow these steps to run the project:
    git clone https://github.com/Varunkumar0610/SV-Verification-Projects.git
    
 2. **Navigate to the project folder**:
-   ``bash
+   ```bash
    cd project-folder-name
    
 3. **Run the simulation**:
-   ``bash
+   ```bash
    make run 
