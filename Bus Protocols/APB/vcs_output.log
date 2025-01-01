@@ -1,0 +1,132 @@
+Chronologic VCS simulator copyright 1991-2022
+Contains Synopsys proprietary information.
+Compiler version T-2022.06-SP1_Full64; Runtime version T-2022.06-SP1_Full64;  Dec 15 10:23 2024
+[DRV] : RESET DONE
+----------------------------------------------------------------------------
+[GEN] :  paddr:12  pwdata:172 pwrite:0  prdata:0 pslverr:0 @ 90
+[DRV] :  paddr:12  pwdata:172 pwrite:0  prdata:0 pslverr:0 @ 150
+[MON] :  paddr:12  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 170
+[SCO] :  paddr:12  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 170
+[SCO] : Data Matched
+---------------------------------------------------------------------------------------------------
+[GEN] :  paddr:2  pwdata:35 pwrite:1  prdata:0 pslverr:0 @ 170
+[DRV] :  paddr:2  pwdata:35 pwrite:1  prdata:0 pslverr:0 @ 230
+[MON] :  paddr:2  pwdata:35 pwrite:1  prdata:0 pslverr:0 @ 250
+[SCO] :  paddr:2  pwdata:35 pwrite:1  prdata:0 pslverr:0 @ 250
+[SCO] : DATA STORED DATA : 35 ADDR: 2
+---------------------------------------------------------------------------------------------------
+[GEN] :  paddr:15  pwdata:14 pwrite:0  prdata:0 pslverr:0 @ 250
+[DRV] :  paddr:15  pwdata:14 pwrite:0  prdata:0 pslverr:0 @ 310
+[MON] :  paddr:15  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 330
+[SCO] :  paddr:15  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 330
+[SCO] : Data Matched
+---------------------------------------------------------------------------------------------------
+[GEN] :  paddr:2  pwdata:228 pwrite:1  prdata:0 pslverr:0 @ 330
+[DRV] :  paddr:2  pwdata:228 pwrite:1  prdata:0 pslverr:0 @ 390
+[MON] :  paddr:2  pwdata:228 pwrite:1  prdata:0 pslverr:0 @ 410
+[SCO] :  paddr:2  pwdata:228 pwrite:1  prdata:0 pslverr:0 @ 410
+[SCO] : DATA STORED DATA : 228 ADDR: 2
+---------------------------------------------------------------------------------------------------
+[GEN] :  paddr:6  pwdata:237 pwrite:0  prdata:0 pslverr:0 @ 410
+[DRV] :  paddr:6  pwdata:237 pwrite:0  prdata:0 pslverr:0 @ 470
+[MON] :  paddr:6  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 490
+[SCO] :  paddr:6  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 490
+[SCO] : Data Matched
+---------------------------------------------------------------------------------------------------
+[GEN] :  paddr:5  pwdata:69 pwrite:1  prdata:0 pslverr:0 @ 490
+[DRV] :  paddr:5  pwdata:69 pwrite:1  prdata:0 pslverr:0 @ 550
+[MON] :  paddr:5  pwdata:69 pwrite:1  prdata:0 pslverr:0 @ 570
+[SCO] :  paddr:5  pwdata:69 pwrite:1  prdata:0 pslverr:0 @ 570
+[SCO] : DATA STORED DATA : 69 ADDR: 5
+---------------------------------------------------------------------------------------------------
+[GEN] :  paddr:2  pwdata:101 pwrite:0  prdata:0 pslverr:0 @ 570
+[DRV] :  paddr:2  pwdata:101 pwrite:0  prdata:0 pslverr:0 @ 630
+[MON] :  paddr:2  pwdata:0 pwrite:0  prdata:228 pslverr:0 @ 650
+[SCO] :  paddr:2  pwdata:0 pwrite:0  prdata:228 pslverr:0 @ 650
+[SCO] : Data Matched
+---------------------------------------------------------------------------------------------------
+[GEN] :  paddr:11  pwdata:129 pwrite:1  prdata:0 pslverr:0 @ 650
+[DRV] :  paddr:11  pwdata:129 pwrite:1  prdata:0 pslverr:0 @ 710
+[MON] :  paddr:11  pwdata:129 pwrite:1  prdata:0 pslverr:0 @ 730
+[SCO] :  paddr:11  pwdata:129 pwrite:1  prdata:0 pslverr:0 @ 730
+[SCO] : DATA STORED DATA : 129 ADDR: 11
+---------------------------------------------------------------------------------------------------
+[GEN] :  paddr:13  pwdata:199 pwrite:0  prdata:0 pslverr:0 @ 730
+[DRV] :  paddr:13  pwdata:199 pwrite:0  prdata:0 pslverr:0 @ 790
+[MON] :  paddr:13  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 810
+[SCO] :  paddr:13  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 810
+[SCO] : Data Matched
+---------------------------------------------------------------------------------------------------
+[GEN] :  paddr:9  pwdata:147 pwrite:1  prdata:0 pslverr:0 @ 810
+[DRV] :  paddr:9  pwdata:147 pwrite:1  prdata:0 pslverr:0 @ 870
+[MON] :  paddr:9  pwdata:147 pwrite:1  prdata:0 pslverr:0 @ 890
+[SCO] :  paddr:9  pwdata:147 pwrite:1  prdata:0 pslverr:0 @ 890
+[SCO] : DATA STORED DATA : 147 ADDR: 9
+---------------------------------------------------------------------------------------------------
+[GEN] :  paddr:7  pwdata:138 pwrite:0  prdata:0 pslverr:0 @ 890
+[DRV] :  paddr:7  pwdata:138 pwrite:0  prdata:0 pslverr:0 @ 950
+[MON] :  paddr:7  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 970
+[SCO] :  paddr:7  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 970
+[SCO] : Data Matched
+---------------------------------------------------------------------------------------------------
+[GEN] :  paddr:7  pwdata:232 pwrite:1  prdata:0 pslverr:0 @ 970
+[DRV] :  paddr:7  pwdata:232 pwrite:1  prdata:0 pslverr:0 @ 1030
+[MON] :  paddr:7  pwdata:232 pwrite:1  prdata:0 pslverr:0 @ 1050
+[SCO] :  paddr:7  pwdata:232 pwrite:1  prdata:0 pslverr:0 @ 1050
+[SCO] : DATA STORED DATA : 232 ADDR: 7
+---------------------------------------------------------------------------------------------------
+[GEN] :  paddr:1  pwdata:112 pwrite:0  prdata:0 pslverr:0 @ 1050
+[DRV] :  paddr:1  pwdata:112 pwrite:0  prdata:0 pslverr:0 @ 1110
+[MON] :  paddr:1  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 1130
+[SCO] :  paddr:1  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 1130
+[SCO] : Data Matched
+---------------------------------------------------------------------------------------------------
+[GEN] :  paddr:6  pwdata:83 pwrite:1  prdata:0 pslverr:0 @ 1130
+[DRV] :  paddr:6  pwdata:83 pwrite:1  prdata:0 pslverr:0 @ 1190
+[MON] :  paddr:6  pwdata:83 pwrite:1  prdata:0 pslverr:0 @ 1210
+[SCO] :  paddr:6  pwdata:83 pwrite:1  prdata:0 pslverr:0 @ 1210
+[SCO] : DATA STORED DATA : 83 ADDR: 6
+---------------------------------------------------------------------------------------------------
+[GEN] :  paddr:12  pwdata:110 pwrite:1  prdata:0 pslverr:0 @ 1210
+[DRV] :  paddr:12  pwdata:110 pwrite:1  prdata:0 pslverr:0 @ 1270
+[MON] :  paddr:12  pwdata:110 pwrite:1  prdata:0 pslverr:0 @ 1290
+[SCO] :  paddr:12  pwdata:110 pwrite:1  prdata:0 pslverr:0 @ 1290
+[SCO] : DATA STORED DATA : 110 ADDR: 12
+---------------------------------------------------------------------------------------------------
+[GEN] :  paddr:12  pwdata:65 pwrite:0  prdata:0 pslverr:0 @ 1290
+[DRV] :  paddr:12  pwdata:65 pwrite:0  prdata:0 pslverr:0 @ 1350
+[MON] :  paddr:12  pwdata:0 pwrite:0  prdata:110 pslverr:0 @ 1370
+[SCO] :  paddr:12  pwdata:0 pwrite:0  prdata:110 pslverr:0 @ 1370
+[SCO] : Data Matched
+---------------------------------------------------------------------------------------------------
+[GEN] :  paddr:0  pwdata:187 pwrite:1  prdata:0 pslverr:0 @ 1370
+[DRV] :  paddr:0  pwdata:187 pwrite:1  prdata:0 pslverr:0 @ 1430
+[MON] :  paddr:0  pwdata:187 pwrite:1  prdata:0 pslverr:0 @ 1450
+[SCO] :  paddr:0  pwdata:187 pwrite:1  prdata:0 pslverr:0 @ 1450
+[SCO] : DATA STORED DATA : 187 ADDR: 0
+---------------------------------------------------------------------------------------------------
+[GEN] :  paddr:2  pwdata:174 pwrite:0  prdata:0 pslverr:0 @ 1450
+[DRV] :  paddr:2  pwdata:174 pwrite:0  prdata:0 pslverr:0 @ 1510
+[MON] :  paddr:2  pwdata:0 pwrite:0  prdata:228 pslverr:0 @ 1530
+[SCO] :  paddr:2  pwdata:0 pwrite:0  prdata:228 pslverr:0 @ 1530
+[SCO] : Data Matched
+---------------------------------------------------------------------------------------------------
+[GEN] :  paddr:6  pwdata:3 pwrite:0  prdata:0 pslverr:0 @ 1530
+[DRV] :  paddr:6  pwdata:3 pwrite:0  prdata:0 pslverr:0 @ 1590
+[MON] :  paddr:6  pwdata:0 pwrite:0  prdata:83 pslverr:0 @ 1610
+[SCO] :  paddr:6  pwdata:0 pwrite:0  prdata:83 pslverr:0 @ 1610
+[SCO] : Data Matched
+---------------------------------------------------------------------------------------------------
+[GEN] :  paddr:1  pwdata:106 pwrite:1  prdata:0 pslverr:0 @ 1610
+[DRV] :  paddr:1  pwdata:106 pwrite:1  prdata:0 pslverr:0 @ 1670
+[MON] :  paddr:1  pwdata:106 pwrite:1  prdata:0 pslverr:0 @ 1690
+[SCO] :  paddr:1  pwdata:106 pwrite:1  prdata:0 pslverr:0 @ 1690
+[SCO] : DATA STORED DATA : 106 ADDR: 1
+---------------------------------------------------------------------------------------------------
+----Total number of Mismatch : 0------
+$finish called from file "../tb/apb_tb.sv", line 286.
+$finish at simulation time                 1690
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 1690
+CPU Time:      0.310 seconds;       Data structure size:   0.0Mb
+Sun Dec 15 10:23:00 2024
