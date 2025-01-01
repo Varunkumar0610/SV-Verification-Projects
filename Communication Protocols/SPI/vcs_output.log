@@ -1,0 +1,35 @@
+Chronologic VCS simulator copyright 1991-2022
+Contains Synopsys proprietary information.
+Compiler version T-2022.06-SP1_Full64; Runtime version T-2022.06-SP1_Full64;  Jan  1 20:04 2025
+[DRV] : RESET DONE
+-----------------------------------------
+[GEN] : din : 1152
+[DRV] : DATA SENT TO DAC : 1152
+[MON] : DATA SENT : 1152
+[SCO] : DRV : 1152 MON : 1152
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : din : 2179
+[DRV] : DATA SENT TO DAC : 2179
+[MON] : DATA SENT : 2179
+[SCO] : DRV : 2179 MON : 2179
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : din : 1591
+[DRV] : DATA SENT TO DAC : 1591
+[MON] : DATA SENT : 1591
+[SCO] : DRV : 1591 MON : 1591
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : din : 71
+[DRV] : DATA SENT TO DAC : 71
+[MON] : DATA SENT : 71
+[SCO] : DRV : 71 MON : 71
+[SCO] : DATA MATCHED
+-----------------------------------------
+$finish called from file "../tb/spi_tb.sv", line 198.
+$finish at simulation time                28130
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 28130
+CPU Time:      0.480 seconds;       Data structure size:   0.0Mb
+Wed Jan  1 20:04:17 2025
