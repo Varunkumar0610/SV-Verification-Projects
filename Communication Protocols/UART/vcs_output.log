@@ -1,0 +1,41 @@
+Chronologic VCS simulator copyright 1991-2022
+Contains Synopsys proprietary information.
+Compiler version T-2022.06-SP1_Full64; Runtime version T-2022.06-SP1_Full64;  Dec  8 14:03 2024
+[DRV] : RESET DONE
+----------------------------------------
+[GEN]: Oper : read Din : 113
+[DRV]: Data RCVD : 234
+[MON] : DATA RCVD RX 234
+[SCO] : DRV : 234 MON : 234
+DATA MATCHED
+----------------------------------------
+[GEN]: Oper : write Din : 59
+[DRV]: Data Sent : 59
+[MON] : DATA SEND on UART TX 59
+[SCO] : DRV : 59 MON : 59
+DATA MATCHED
+----------------------------------------
+[GEN]: Oper : read Din : 59
+[DRV]: Data RCVD : 86
+[MON] : DATA RCVD RX 86
+[SCO] : DRV : 86 MON : 86
+DATA MATCHED
+----------------------------------------
+[GEN]: Oper : write Din : 173
+[DRV]: Data Sent : 173
+[MON] : DATA SEND on UART TX 173
+[SCO] : DRV : 173 MON : 173
+DATA MATCHED
+----------------------------------------
+[GEN]: Oper : write Din : 157
+[DRV]: Data Sent : 157
+[MON] : DATA SEND on UART TX 157
+[SCO] : DRV : 157 MON : 157
+DATA MATCHED
+----------------------------------------
+$finish called from file "../tb/uart_tb.sv", line 499.
+$finish at simulation time            138850000
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 138850000 ps
+CPU Time:      0.300 seconds;       Data structure size:   0.0Mb
+Sun Dec  8 14:03:06 2024
