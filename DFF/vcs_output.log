@@ -1,0 +1,220 @@
+Chronologic VCS simulator copyright 1991-2022
+Contains Synopsys proprietary information.
+Compiler version T-2022.06-SP1_Full64; Runtime version T-2022.06-SP1_Full64;  Dec  2 13:56 2024
+[DRV] : RESET DONE
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 1 DOUT : 0
+[DRV] : DIN : 1 DOUT : 0
+[MON] : DIN : 0 DOUT : 1
+[SCO] : DIN : 0 DOUT : 1
+[REF] : DIN : 1 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+[GEN] : DIN : 0 DOUT : 0
+[DRV] : DIN : 0 DOUT : 0
+[MON] : DIN : 0 DOUT : 0
+[SCO] : DIN : 0 DOUT : 0
+[REF] : DIN : 0 DOUT : 0
+[SCO] : DATA MATCHED
+-------------------------------------------------
+$finish called from file "../tb/tb.sv", line 177.
+$finish at simulation time                 1310
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 1310
+CPU Time:      0.300 seconds;       Data structure size:   0.0Mb
+Mon Dec  2 13:56:33 2024
