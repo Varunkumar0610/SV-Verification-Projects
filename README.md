@@ -30,6 +30,28 @@ This repository contains various SystemVerilog (SV) verification projects that f
      - **Basic DFF**: Verification of the basic functionality of a D Flip-Flop, focusing on correct edge triggering and data capture.
      - **Advanced DFF**: Testing of advanced DFF configurations, including asynchronous reset and enable features.
 
+## IHI0011 AMBA Specification
+Refer from the attached **IHI0011 AMBA Specification.pdf**, which provides a comprehensive guide to the **AMBA (Advanced Microcontroller Bus Architecture)**, a set of protocols used to design high-performance systems. This specification covers protocols like **AMBA APB (Advanced Peripheral Bus)** and **AMBA AXI (Advanced Extensible Interface)**.
+
+### AMBA APB (Advanced Peripheral Bus)
+   - **Description**: APB is a simple, low-bandwidth, and low-power bus interface used primarily for connecting peripheral devices to a processor. It is optimized for ease of use, with a low implementation cost and is suitable for connecting slower peripherals like UART, timers, or GPIOs. APB supports basic read and write operations with simpler handshakes compared to other bus types.
+   - **Key Features**:
+     - Simple and low-power design.
+     - Single master/slave communication.
+     - Synchronous operation, typically with slower clock speeds.
+     - Supports basic read/write operations with minimal signal complexity.
+
+### AMBA AXI (Advanced Extensible Interface)
+   - **Description**: AXI is a high-performance, high-bandwidth bus protocol designed for use in modern high-speed applications. It supports high-frequency and high-throughput data transfer and is optimized for parallel operations and low-latency data paths. AXI is often used to connect high-performance modules like memory controllers, DSPs, and GPUs in complex system designs.
+   - **Key Features**:
+     - Supports multiple read and write channels (read, write, and write-back).
+     - Supports out-of-order transaction completion for improved performance.
+     - Supports burst transactions, which can significantly improve the efficiency of data transfers.
+     - Provides low-latency data transfers with separate read and write address/control channels.
+     - Allows for multiple masters to initiate transfers concurrently.
+
+The AMBA specification ensures that components in ARM-based systems can communicate efficiently using standardized bus protocols. APB is ideal for simpler, lower-power peripherals, while AXI is suited for high-performance, high-bandwidth interconnects.
+
 ## Tools and Methodologies
 - **HDL**: SystemVerilog
 - **Verification Methodology**: Constrained random testing, directed testing, functional coverage, assertions, etc.
