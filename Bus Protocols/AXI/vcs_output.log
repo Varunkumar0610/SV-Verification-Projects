@@ -1,0 +1,70 @@
+Chronologic VCS simulator copyright 1991-2022
+Contains Synopsys proprietary information.
+Compiler version T-2022.06-SP1_Full64; Runtime version T-2022.06-SP1_Full64;  Dec 23 12:00 2024
+-----------------[DRV] : RESET DONE-----------------------------
+[GEN] : OP : 1 awaddr : 1 wdata : 8 araddr : 1
+[DRV] : OP : 1 awaddr : 1 wdata : 8 
+[MON] : OP : 1 awaddr : 1 wdata : 8 wresp:0
+[SCO] : OP : 1 awaddr : 1 wdata : 8 wresp : 0
+[SCO] : DATA STORED ADDR :1 and DATA :8
+----------------------------------------------------
+[GEN] : OP : 0 awaddr : 1 wdata : 10 araddr : 1
+[DRV] : OP : 0 araddr : 1 
+[MON] : OP : 0 araddr : 1 rdata : 8 rresp:0
+[SCO] : OP : 0 araddr : 1 rdata : 8 rresp : 0
+[SCO] : DATA MATCHED
+----------------------------------------------------
+[GEN] : OP : 1 awaddr : 1 wdata : 1 araddr : 1
+[DRV] : OP : 1 awaddr : 1 wdata : 1 
+[MON] : OP : 1 awaddr : 1 wdata : 1 wresp:0
+[SCO] : OP : 1 awaddr : 1 wdata : 1 wresp : 0
+[SCO] : DATA STORED ADDR :1 and DATA :1
+----------------------------------------------------
+[GEN] : OP : 0 awaddr : 1 wdata : 1 araddr : 1
+[DRV] : OP : 0 araddr : 1 
+[MON] : OP : 0 araddr : 1 rdata : 1 rresp:0
+[SCO] : OP : 0 araddr : 1 rdata : 1 rresp : 0
+[SCO] : DATA MATCHED
+----------------------------------------------------
+[GEN] : OP : 0 awaddr : 1 wdata : 2 araddr : 1
+[DRV] : OP : 0 araddr : 1 
+[MON] : OP : 0 araddr : 1 rdata : 1 rresp:0
+[SCO] : OP : 0 araddr : 1 rdata : 1 rresp : 0
+[SCO] : DATA MATCHED
+----------------------------------------------------
+[GEN] : OP : 1 awaddr : 1 wdata : 10 araddr : 1
+[DRV] : OP : 1 awaddr : 1 wdata : 10 
+[MON] : OP : 1 awaddr : 1 wdata : 10 wresp:0
+[SCO] : OP : 1 awaddr : 1 wdata : 10 wresp : 0
+[SCO] : DATA STORED ADDR :1 and DATA :10
+----------------------------------------------------
+[GEN] : OP : 0 awaddr : 1 wdata : 7 araddr : 1
+[DRV] : OP : 0 araddr : 1 
+[MON] : OP : 0 araddr : 1 rdata : 10 rresp:0
+[SCO] : OP : 0 araddr : 1 rdata : 10 rresp : 0
+[SCO] : DATA MATCHED
+----------------------------------------------------
+[GEN] : OP : 1 awaddr : 1 wdata : 4 araddr : 1
+[DRV] : OP : 1 awaddr : 1 wdata : 4 
+[MON] : OP : 1 awaddr : 1 wdata : 4 wresp:0
+[SCO] : OP : 1 awaddr : 1 wdata : 4 wresp : 0
+[SCO] : DATA STORED ADDR :1 and DATA :4
+----------------------------------------------------
+[GEN] : OP : 0 awaddr : 1 wdata : 7 araddr : 1
+[DRV] : OP : 0 araddr : 1 
+[MON] : OP : 0 araddr : 1 rdata : 4 rresp:0
+[SCO] : OP : 0 araddr : 1 rdata : 4 rresp : 0
+[SCO] : DATA MATCHED
+----------------------------------------------------
+[GEN] : OP : 1 awaddr : 1 wdata : 4 araddr : 1
+[DRV] : OP : 1 awaddr : 1 wdata : 4 
+[MON] : OP : 1 awaddr : 1 wdata : 4 wresp:0
+[SCO] : OP : 1 awaddr : 1 wdata : 4 wresp : 0
+[SCO] : DATA STORED ADDR :1 and DATA :4
+----------------------------------------------------
+$finish called from file "../tb/axi_tb.sv", line 326.
+$finish at simulation time                  795
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 795
+CPU Time:      0.500 seconds;       Data structure size:   0.0Mb
+Mon Dec 23 12:00:50 2024
